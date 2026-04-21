@@ -4,6 +4,14 @@ Aplicación web para extraer preguntas de documentos educativos (PDF, Word, Exce
 retornarlas como JSON estructurado. Útil para digitalizar evaluaciones, cuestionarios
 y exámenes sin necesidad de transcripción manual.
 
+## Deploy
+
+| Servicio | URL |
+|---|---|
+| Frontend (Vercel) | https://reto-tecnico-python.vercel.app |
+| Backend (Render) | https://quiz-extractor-api.onrender.com |
+| API Docs | https://quiz-extractor-api.onrender.com/docs |
+
 ## Stack
 
 | Capa | Tecnología |
