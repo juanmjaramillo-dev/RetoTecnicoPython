@@ -9,5 +9,14 @@ class Settings(BaseSettings):
 
     model_config = SettingsConfigDict(env_file=".env", extra="ignore")
 
+    @property
+    def allowed_origins(self) -> list[str]:
+        origins = [o.strip() for o in self.frontend_url.split(",") if o.strip()]
+        # always include the Vercel deployment
+        vercel = "https://reto-tecnico-python.vercel.app"
+        if vercel not in origins:
+            origins.append(vercel)
+        return origins
+
 
 settings = Settings()
