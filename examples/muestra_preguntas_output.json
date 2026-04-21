@@ -1,0 +1,126 @@
+{
+  "total_preguntas": 13,
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "¿Cuál es el principal criterio diagnóstico del Trastorno de Ansiedad Generalizada (TAG)?",
+      "tipo": "seleccion_multiple",
+      "alternativas": [
+        { "letra": "A", "texto": "Alucinaciones visuales recurrentes" },
+        { "letra": "B", "texto": "Preocupación excesiva y difícil de controlar durante más de 6 meses" },
+        { "letra": "C", "texto": "Estado de ánimo persistentemente elevado o expansivo" },
+        { "letra": "D", "texto": "Episodios disociativos de amnesia" }
+      ],
+      "respuesta_correcta": "B"
+    },
+    {
+      "numero": 2,
+      "enunciado": "La terapia cognitivo-conductual (TCC) es el tratamiento psicológico con mayor evidencia empírica para el TAG.",
+      "tipo": "verdadero_falso",
+      "alternativas": [],
+      "respuesta_correcta": "Verdadero"
+    },
+    {
+      "numero": 3,
+      "enunciado": "¿Qué sistema de neurotransmisores está principalmente implicado en la fisiopatología del TAG?",
+      "tipo": "seleccion_multiple",
+      "alternativas": [
+        { "letra": "A", "texto": "Dopaminérgico" },
+        { "letra": "B", "texto": "Colinérgico" },
+        { "letra": "C", "texto": "GABAérgico y serotoninérgico" },
+        { "letra": "D", "texto": "Glutamatérgico" }
+      ],
+      "respuesta_correcta": "C"
+    },
+    {
+      "numero": 4,
+      "enunciado": "El Trastorno de Pánico puede presentarse con o sin agorafobia.",
+      "tipo": "verdadero_falso",
+      "alternativas": [],
+      "respuesta_correcta": "Verdadero"
+    },
+    {
+      "numero": 5,
+      "enunciado": "¿Cuál de los siguientes fármacos es de primera línea en el tratamiento farmacológico del TAG?",
+      "tipo": "seleccion_multiple",
+      "alternativas": [
+        { "letra": "A", "texto": "Haloperidol" },
+        { "letra": "B", "texto": "Sertralina" },
+        { "letra": "C", "texto": "Litio" },
+        { "letra": "D", "texto": "Clozapina" }
+      ],
+      "respuesta_correcta": "B"
+    },
+    {
+      "numero": 6,
+      "enunciado": "La exposición gradual es una técnica exclusiva del tratamiento de fobias específicas y no se utiliza en otros trastornos de ansiedad.",
+      "tipo": "verdadero_falso",
+      "alternativas": [],
+      "respuesta_correcta": "Falso"
+    },
+    {
+      "numero": 7,
+      "enunciado": "Según el DSM-5, ¿cuánto tiempo deben persistir los síntomas del TAG para cumplir criterio diagnóstico?",
+      "tipo": "seleccion_multiple",
+      "alternativas": [
+        { "letra": "A", "texto": "Al menos 2 semanas" },
+        { "letra": "B", "texto": "Al menos 1 mes" },
+        { "letra": "C", "texto": "Al menos 3 meses" },
+        { "letra": "D", "texto": "Al menos 6 meses" }
+      ],
+      "respuesta_correcta": "D"
+    },
+    {
+      "numero": 8,
+      "enunciado": "El modelo cognitivo de Beck propone que la ansiedad surge de la sobreestimación del peligro y la subestimación de los recursos de afrontamiento.",
+      "tipo": "verdadero_falso",
+      "alternativas": [],
+      "respuesta_correcta": "Verdadero"
+    },
+    {
+      "numero": 9,
+      "enunciado": "¿Cuál de las siguientes NO es una técnica de relajación utilizada en el tratamiento de los trastornos de ansiedad?",
+      "tipo": "seleccion_multiple",
+      "alternativas": [
+        { "letra": "A", "texto": "Respiración diafragmática" },
+        { "letra": "B", "texto": "Relajación muscular progresiva de Jacobson" },
+        { "letra": "C", "texto": "Entrenamiento autógeno de Schultz" },
+        { "letra": "D", "texto": "Terapia electroconvulsiva" }
+      ],
+      "respuesta_correcta": "D"
+    },
+    {
+      "numero": 10,
+      "enunciado": "La fobia social y el trastorno de ansiedad generalizada son la misma entidad diagnóstica.",
+      "tipo": "verdadero_falso",
+      "alternativas": [],
+      "respuesta_correcta": "Falso"
+    },
+    {
+      "numero": 11,
+      "enunciado": "¿Qué característica diferencia al Trastorno Obsesivo-Compulsivo (TOC) de los trastornos de ansiedad según el DSM-5?",
+      "tipo": "seleccion_multiple",
+      "alternativas": [
+        { "letra": "A", "texto": "Presencia de pensamientos intrusivos" },
+        { "letra": "B", "texto": "El TOC se clasifica en un capítulo diagnóstico separado" },
+        { "letra": "C", "texto": "La ansiedad no aparece en el TOC" },
+        { "letra": "D", "texto": "El TOC no responde a TCC" }
+      ],
+      "respuesta_correcta": "B"
+    },
+    {
+      "numero": 12,
+      "enunciado": "Las benzodiazepinas son recomendadas como tratamiento de mantenimiento a largo plazo para el TAG por su alto perfil de seguridad.",
+      "tipo": "verdadero_falso",
+      "alternativas": [],
+      "respuesta_correcta": "Falso"
+    },
+    {
+      "numero": 13,
+      "enunciado": "Describe brevemente la diferencia entre ansiedad adaptativa y ansiedad patológica, e indica al menos dos variables que determinan dicha distinción.",
+      "tipo": "desarrollo",
+      "alternativas": [],
+      "respuesta_correcta": null
+    }
+  ]
+}
